@@ -44,10 +44,10 @@ pip install -r requirements.txt
 ## Getting started
 1.  Clone the repository and initialize submodules:
     ```bash
-    git clone git@github.com:jkCXf9X4/ssp4cpp.git
+    git clone git@github.com:pyssporg/ssp4cpp.git
     git submodule update --init --recursive 
     or
-    git clone --recursive git@github.com:jkCXf9X4/ssp4cpp.git
+    git clone --recursive git@github.com:pyssporg/ssp4cpp.git
     ```
 
 2.  Configure the build using the provided CMake preset (requires [vcpkg](https://github.com/microsoft/vcpkg)):
